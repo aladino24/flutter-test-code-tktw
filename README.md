@@ -1,5 +1,12 @@
 # flutter_tirtakencana_tatawarna
 
+## Local Development
+
+To set up the local development environment, follow these steps:
+
+1. Start your Laravel development server:
+   php artisan serve
+
 A new Flutter project.
 
 ## Getting Started
